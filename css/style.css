@@ -1,0 +1,23 @@
+body{
+    background-color:blanchedalmond;
+}
+h1{
+    color: #FF6969;
+}
+h3{
+    color: #FF6969;
+}
+.suhani
+{
+    border-radius: 100%;
+}
+
+hr
+{
+   
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: 5px;
+    width:5%;
+}
